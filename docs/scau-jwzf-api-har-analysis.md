@@ -1,13 +1,9 @@
-# SCAU 教务选课 HAR 接口分析
+# SCAU 教务选课接口分析
 
-来源文件：
 
-- `D:\vibe coding\SCAU-course-tool_v2\SCAU-course-tool_v2.0\jwzf.scau.edu.cn.har`
-- `D:\vibe coding\SCAU-course-tool_v2\SCAU-course-tool_v2.0\jwzf.scau.edu.cn_login.har`
 
 更新日期：2026-06-17
 
-说明：本文只记录接口结构、参数名、字段含义和实现注意事项。账号、密码、CSRF、Cookie、学号、姓名、学生维度 ID、教学班 ID、购物车 ID 等真实敏感值均不记录，示例中统一使用占位符。
 
 ## 1. 基本信息
 
