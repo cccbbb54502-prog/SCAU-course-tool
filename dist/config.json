@@ -1,0 +1,10 @@
+{
+  "duration_seconds": 600,
+  "speed_profile": "ultra_fast",
+  "speed_profiles": {
+    "ultra_fast": 0.01,
+    "fast": 0.1,
+    "medium": 0.2,
+    "slow": 0.5
+  }
+}
